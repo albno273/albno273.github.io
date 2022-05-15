@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "snel serve",
+    "build": "snel build"
+  },
+  "files": [
+    "./src"
+  ]
+}
